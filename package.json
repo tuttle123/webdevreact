@@ -1,0 +1,15 @@
+{
+  "name": "webdevreact",
+  "version": "1.0.0",
+  "description": "cd /Users/jessicayu/Documents/webdevreact",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx create-react-app webdevreact"
+  },
+  "keywords": [
+    "npx",
+    "create-react-app"
+  ],
+  "author": "Jessica",
+  "license": "ISC"
+}
