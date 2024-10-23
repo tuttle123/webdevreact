@@ -11,5 +11,8 @@
     "create-react-app"
   ],
   "author": "Jessica",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
